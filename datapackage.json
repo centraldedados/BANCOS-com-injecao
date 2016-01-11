@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "name": "bank-help-approved",
+      "path": "data/bank-help-approved.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 87039,
+      "schema": {
+        "fields": [
+          {
+            "name": "",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "CASE_CODE",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "MEMBER_STATE",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "AID_INSTRUMENT",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "CASE_TYPE",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "START_DATE",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "END_DATE",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "NOTIFICATION_DATE",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "DECISIONS",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "OBJECTIVES",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "DECISION_DATE",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "DG_RESPONSIBLE",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "BANKS_INVOLVED",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "name": "bancos-com-injecao",
+  "title": "",
+  "description": "Repositório do dataset dedicado aos bancos que receberam injecção de capital",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0",
+  "repository": "https://github.com/gsilvapt/bancos-com-injecao.git"
+}
