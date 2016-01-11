@@ -12,3 +12,9 @@ dos media.
 ## Versão e Actualização
 A informação proveniente da spreadsheet foi atualizada a última vez em 27 de
 Junho de 2014.
+
+
+## Notas
+ * Pede-se a quem utilizar o dataset para nos informar para podermos listar o(s)
+projetos que beneficiaram deste dataset.
+ * Existem campos NA ou vazios. Quem utilizar, deverá ter esse cuidado.
