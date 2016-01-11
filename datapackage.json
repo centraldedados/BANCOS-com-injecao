@@ -16,71 +16,71 @@
           {
             "name": "CASE_CODE",
             "type": "string",
-            "description": ""
+            "description": "Código do caso"
           },
           {
             "name": "MEMBER_STATE",
             "type": "string",
-            "description": ""
+            "description": "Estado-membro"
           },
           {
             "name": "AID_INSTRUMENT",
             "type": "string",
-            "description": ""
+            "description": "Tipo de ajuda"
           },
           {
             "name": "CASE_TYPE",
             "type": "string",
-            "description": ""
+            "description": "Tipo de Caso"
           },
           {
             "name": "START_DATE",
             "type": "string",
-            "description": ""
+            "description": "Data de começo do programa"
           },
           {
             "name": "END_DATE",
             "type": "string",
-            "description": ""
+            "description": "Fim do programa"
           },
           {
             "name": "NOTIFICATION_DATE",
             "type": "string",
-            "description": ""
+            "description": "Data de notificação"
           },
           {
             "name": "DECISIONS",
             "type": "string",
-            "description": ""
+            "description": "Decisões tomadas"
           },
           {
             "name": "OBJECTIVES",
             "type": "string",
-            "description": ""
+            "description": "Objectivos"
           },
           {
             "name": "DECISION_DATE",
             "type": "string",
-            "description": ""
+            "description": "Data da Decisão"
           },
           {
             "name": "DG_RESPONSIBLE",
             "type": "string",
-            "description": ""
+            "description": "Autoridade Responsável"
           },
           {
             "name": "BANKS_INVOLVED",
             "type": "number",
-            "description": ""
+            "description": "Outros bancos envolvidos na prestação de ajuda"
           }
         ]
       }
     }
   ],
   "name": "bancos-com-injecao",
-  "title": "",
+  "title": "Bancos com ajuda financeira",
   "description": "Repositório do dataset dedicado aos bancos que receberam injecção de capital",
-  "homepage": "",
+  "homepage": "git://github.com/centraldedados/bancos-com-injecao.git",
   "version": "0.1.0",
   "license": "ODC-PDDL-1.0",
   "repository": "https://github.com/gsilvapt/bancos-com-injecao.git"
